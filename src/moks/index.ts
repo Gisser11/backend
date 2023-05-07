@@ -1,0 +1,72 @@
+export const users = [
+    {
+        "_id": "64579339a347df4cfd9b737f",
+        "isActive": true,
+        "balance": "$2,985.05",
+        "picture": "http://placehold.it/32x32",
+        "age": 25,
+        "eyeColor": "brown",
+        "name": "Waters Lambert",
+        "gender": "male",
+        "company": "FANGOLD",
+        "email": "waterslambert@fangold.com",
+        "phone": "+1 (829) 599-3648",
+        "address": "234 Bayview Avenue, Starks, Wyoming, 5784"
+    },
+    {
+        "_id": "64579339ae7b0919b40afb5d",
+        "isActive": true,
+        "balance": "$1,613.06",
+        "picture": "http://placehold.it/32x32",
+        "age": 38,
+        "eyeColor": "brown",
+        "name": "Doreen Weiss",
+        "gender": "female",
+        "company": "KRAGGLE",
+        "email": "doreenweiss@kraggle.com",
+        "phone": "+1 (853) 528-3357",
+        "address": "685 Taylor Street, Hayden, Pennsylvania, 2899"
+    },
+    {
+        "_id": "645793391c9ad2979867af14",
+        "isActive": true,
+        "balance": "$1,626.04",
+        "picture": "http://placehold.it/32x32",
+        "age": 38,
+        "eyeColor": "brown",
+        "name": "Lois Morin",
+        "gender": "female",
+        "company": "ZAGGLES",
+        "email": "loismorin@zaggles.com",
+        "phone": "+1 (971) 418-2696",
+        "address": "234 Micieli Place, Rivers, Washington, 5448"
+    },
+    {
+        "_id": "64579339b8131455c8afd959",
+        "isActive": false,
+        "balance": "$3,931.94",
+        "picture": "http://placehold.it/32x32",
+        "age": 24,
+        "eyeColor": "blue",
+        "name": "Meghan Townsend",
+        "gender": "female",
+        "company": "FRENEX",
+        "email": "meghantownsend@frenex.com",
+        "phone": "+1 (878) 475-3895",
+        "address": "251 Ellery Street, Coleville, Guam, 2043"
+    },
+    {
+        "_id": "645793391d2f0358e5d57bc1",
+        "isActive": false,
+        "balance": "$3,624.46",
+        "picture": "http://placehold.it/32x32",
+        "age": 37,
+        "eyeColor": "green",
+        "name": "Esmeralda Vega",
+        "gender": "female",
+        "company": "UTARIAN",
+        "email": "esmeraldavega@utarian.com",
+        "phone": "+1 (918) 439-2593",
+        "address": "683 Newport Street, Trail, Northern Mariana Islands, 1836"
+    }
+]
