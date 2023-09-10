@@ -3,7 +3,7 @@ version: '3'
 services:
   postgresql:
     image: postgres
-    container_name: lesson
+    container_name: crypto
     ports:
       - '5432:5432'
     environment:

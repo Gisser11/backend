@@ -1,9 +1,9 @@
 import { Injectable } from '@nestjs/common';
-import {users} from "../../moks";
+import { users } from '../../moks';
 
 @Injectable()
 export class UserService {
-    getUsers() {
-        return users;
-    }
+  getUsers() {
+    return users;
+  }
 }
